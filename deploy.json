@@ -2,6 +2,6 @@
   "live": "blue",
   "environments": {
     "blue": {"port": 5001, "version": "1.0.0"},
-    "green": {"port": 5002, "version": "1.0.0"}
+    "green": {"port": 5002, "version": "2.0.0", "flags": {"express_checkout": true}}
   }
 }
